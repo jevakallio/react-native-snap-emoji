@@ -1,0 +1,19 @@
+{
+  "name": "react-native-snap-emoji",
+  "version": "1.0.0",
+  "description": "A EmojiPicker component for React Native For Beginners course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jevakallio/react-native-snap-emoji.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jevakallio/react-native-snap-emoji/issues"
+  },
+  "homepage": "https://github.com/jevakallio/react-native-snap-emoji#readme"
+}
