@@ -1,6 +1,6 @@
 import React from 'react';
 import { Animated, Text, View, Dimensions, TouchableOpacity } from 'react-native';
-import Draggable from './Draggable';
+import Draggable from 'react-native-snap-drag';
 
 const window = Dimensions.get('window');
 const size = 80;
