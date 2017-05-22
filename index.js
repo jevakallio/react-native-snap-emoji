@@ -1,10 +1,10 @@
 import React from 'react';
 import { Animated, Text, View, Dimensions, TouchableOpacity } from 'react-native';
 import Draggable from 'react-native-snap-drag';
+import emojis from './emojis';
 
 const window = Dimensions.get('window');
 const size = 80;
-const emojis = ['😀', '😃', '😄', '😁', '😆', '😅', '😂', '🤣'];
 export default class EmojiPicker extends React.Component {
   state = {
     picked: []
