@@ -1,6 +1,6 @@
 {
   "name": "react-native-snap-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A EmojiPicker component for React Native For Beginners course",
   "main": "index.js",
   "scripts": {
