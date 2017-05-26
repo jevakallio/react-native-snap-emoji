@@ -5,6 +5,7 @@ import emojis from './emojis';
 
 const window = Dimensions.get('window');
 const size = 80;
+
 export default class EmojiPicker extends React.Component {
   state = {
     picked: []
@@ -76,7 +77,8 @@ export default class EmojiPicker extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    overflow: 'hidden'
+    overflow: 'hidden',
+    backgroundColor: 'transparent'
   },
   picked: {
     backgroundColor: 'transparent',
